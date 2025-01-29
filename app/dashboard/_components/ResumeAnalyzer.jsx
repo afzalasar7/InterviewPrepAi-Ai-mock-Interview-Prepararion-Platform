@@ -388,9 +388,9 @@ const handleSubmit = async (e) => {
 
       {analysisResult && (
         <div className="px-14 py-6 bg-gray-50 rounded-lg">
-          <div className="flex items-center space-x-4 mb-4">
-            <h2 className="text-3xl font-bold text-green-500">🎉 Congratulations!</h2>
-            <h2 className="font-bold text-2xl text-gray-800">Here is your resume feedback</h2>
+          <div className="flex flex-col sm:flex-row items-center sm:space-x-4 space-y-2 sm:space-y-0 mb-4 text-center sm:text-left">
+  <h2 className="text-3xl font-bold text-green-500">🎉 Congratulations!</h2>
+  <h2 className="font-bold text-2xl text-gray-800">Here is your resume feedback</h2>
           </div>
           <h2 className="text-lg text-gray-700 mb-4">
             Your overall analysis score:{" "}
