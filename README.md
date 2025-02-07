@@ -1,10 +1,10 @@
-# 🚀 InterviewPrep AI 2: Your Ultimate AI Interview Coach
+# 🚀 InterviewPrep AI: Your Ultimate AI Interview Coach
 
-Welcome to **InterviewPrep AI 2** – where cutting-edge AI meets real-world interview preparation. Built with modern technologies like **Next.js**, **React**, **Drizzle ORM**, **Clerk**, **Gemini AI**, and **SpeechRecognition**, our platform transforms your mock interviews into a dynamic, interactive learning experience. Whether you're a new grad or a seasoned professional, get ready to level up your interview game with real-time feedback and intelligent insights.
+Welcome to **InterviewPrep AI** – where cutting-edge AI meets real-world interview preparation. Built with modern technologies like **Next.js**, **React**, **Drizzle ORM**, **Clerk**, **Gemini AI**, and **SpeechRecognition**, our platform transforms your mock interviews into a dynamic, interactive learning experience. Whether you're a new grad or a seasoned professional, get ready to level up your interview game with real-time feedback and intelligent insights.
 
 ---
 
-## 🌟 Why Choose InterviewPrep AI 2?
+## 🌟 Why Choose InterviewPrep AI?
 
 Interview preparation can be daunting, but our AI-powered platform makes it engaging, efficient, and tailored just for you. Here’s how we help you crush your interviews:
 
