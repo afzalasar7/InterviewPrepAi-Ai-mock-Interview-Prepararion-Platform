@@ -17,7 +17,7 @@ const LandingPage = () => {
   <div className="relative z-10 mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-screen lg:items-center">
     <div className="mx-auto max-w-3xl text-center">
       <h1 className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text text-3xl font-extrabold text-transparent sm:text-5xl">
-        Transform Your Interview Preparation with AI
+        Transform Your Interview Preparation with CommuniSync AI
       </h1>
       <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
         Prepare for your next job interview with confidence using CommuniSyncAI. Our cutting-edge AI technology simulates real interview scenarios, providing personalized feedback and detailed analysis to help you improve.
