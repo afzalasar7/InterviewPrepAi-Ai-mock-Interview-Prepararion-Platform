@@ -20,7 +20,7 @@ const LandingPage = () => {
         Transform Your Interview Preparation with AI
       </h1>
       <p className="mx-auto mt-4 max-w-xl sm:text-xl/relaxed">
-        Prepare for your next job interview with confidence using AI. Our cutting-edge AI technology simulates real interview scenarios, providing personalized feedback and detailed analysis to help you improve.
+        Prepare for your next job interview with confidence using CommuniSyncAI. Our cutting-edge AI technology simulates real interview scenarios, providing personalized feedback and detailed analysis to help you improve.
       </p>
       <div className="mt-8 flex flex-wrap justify-center gap-4">
         <Link
@@ -57,13 +57,13 @@ const LandingPage = () => {
           <h2 className="text-3xl font-bold sm:text-4xl text-white">About InterviewPrep AI</h2>
 
           <p className="mt-4 text-gray-400">
-          InterviewPrep AI is an innovative tool powered by AI algorithms that aims to transform how people prepare for their interviews. Making use of AI's capabilities, InterviewPrep AI produces personalized
+          CommuniSync AI is an innovative tool powered by AI algorithms that aims to transform how people prepare for their interviews. Making use of AI's capabilities, InterviewPrep AI produces personalized
           simulated interview questions based on job titles, descriptions, and years of experience.
 
           </p>
 
           <p className="mt-4 text-gray-400">
-          InterviewPrep AI supports professionals of all experience levels as well as those just beginning their careers. 
+          CommuniSync AI supports professionals of all experience levels as well as those just beginning their careers. 
           By practicing on real interview questions, you may improve your interviewing skills and Increase your chances of getting selected
           </p>
 
